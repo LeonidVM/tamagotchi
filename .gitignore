@@ -1,0 +1,9 @@
+# Файлы с данными 
+*.db
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Текстовые данные
+*.pdf
